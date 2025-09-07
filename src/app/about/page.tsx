@@ -1,4 +1,3 @@
-// about.tsx
 "use client";
 import { Container, Row, Col } from 'react-bootstrap';
 

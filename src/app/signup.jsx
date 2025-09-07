@@ -1,5 +1,5 @@
 // pages/signup.js
-import NavigationBar from '@/app/Component/Navbar';
+import NavigationBar from '@/app/component/Navbar';
 import { Container, Form, Button } from 'react-bootstrap';
 
 const Signup = () => {
