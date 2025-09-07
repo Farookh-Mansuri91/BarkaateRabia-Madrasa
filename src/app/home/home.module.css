@@ -1,0 +1,31 @@
+.hero {
+    background: url("/images/hero-bg.jpg") center/cover no-repeat;
+  }
+  
+  .featureCard {
+    padding: 15px;
+    background: white;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .featureCard:hover {
+    transform: scale(1.05);
+  }
+  
+  .galleryImage {
+    overflow: hidden;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .galleryImage:hover {
+    transform: scale(1.05);
+  }
+  
+  .cta {
+    background: linear-gradient(to right, #28a745, #1e7e34);
+    color: white;
+  }
+  
