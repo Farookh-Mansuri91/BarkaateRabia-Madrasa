@@ -1,6 +1,6 @@
 // pages/services.js
 "use client"
-import NavigationBar from '@/app/Component/common/Navbar';
+import NavigationBar from '@/app/component/common/Navbar';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 
 const OurServices = () => {

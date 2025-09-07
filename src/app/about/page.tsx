@@ -1,6 +1,5 @@
 // about.tsx
 "use client";
-//import NavigationBar from '@/app/component/common/Navbar';
 import { Container, Row, Col } from 'react-bootstrap';
 
 const About = () => {
