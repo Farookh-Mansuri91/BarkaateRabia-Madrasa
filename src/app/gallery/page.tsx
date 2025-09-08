@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import styles from "./gallery.module.css";
 
 const galleryImages = [
-  "/images/gallery/madrasa-student-4.jpeg",
+  "/images/gallery/madrasa-stduent-new2.jpeg",
   "/images/gallery/madrasa-student-13.jpeg",
   "/images/gallery/madrasa-student-8.jpeg",
   "/images/gallery/madrasa-student-5.jpeg",
@@ -18,7 +18,7 @@ const galleryImages = [
   "/images/gallery/madrasa-student-12.jpeg",
   "/images/gallery/madrasa-student-2.jpeg",
    "/images/gallery/madrasa-stduent-new.jpeg",
-    "/images/gallery/madrasa-stduent-new2.jpeg"
+  "/images/gallery/madrasa-student-4.jpeg"
 ];
 
 export default function Gallery() {
