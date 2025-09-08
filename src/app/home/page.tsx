@@ -28,7 +28,7 @@ export default function HomePage() {
             <p>Humare madrasa mein hum Islami aqdar ke saath behtareen taleem faraham karte hain. Hamara maqsad sirf kitaabi ilm nahi, balki betiyon ki akhlaqi tarbiyat aur hunar ko bhi barhawa dena hai. Hum ek mehfooz aur roshni bhara mustaqbil banane ke liye taleem ko behtareen tareeqe se pesh karte hain.</p>
           </div>
           <div className="col-md-4 text-center">
-            <img src="/images/masjid1.png" alt="Spiritual Growth" className="img-fluid mb-3" />
+            <img src="/images/LogoJamiaRabia.png" alt="Spiritual Growth" className="img-fluid mb-3" />
             <h4>Roohani Taraqqi</h4>
             <p>Hamara madrasa sirf taleem ka markaz nahi, balki roohani taraqqi ka safar bhi hai. Hum betiyon ke dilon mein iman, taqwa aur islami akhlaq ki roshni jagate hain.</p>
           </div>

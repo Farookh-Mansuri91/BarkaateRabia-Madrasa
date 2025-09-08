@@ -30,7 +30,7 @@ export default function ContactUs() {
         <div className="col-md-6">
           <h4>Hum se rabta karein</h4>
           <p><FaMapMarkerAlt />Pachdaura Dohriya,Bhojipura, Bareilly, India</p>
-          <p><FaPhoneAlt />+91 9767622650</p>
+          <p><FaPhoneAlt />+91 9756622650</p>
           <p><FaEnvelope /> info@barkaaterabiya.com</p>
         </div>
         <div className="col-md-6">

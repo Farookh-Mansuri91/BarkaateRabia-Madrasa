@@ -17,6 +17,8 @@ const galleryImages = [
   "/images/gallery/madrasa-student-11.jpeg",
   "/images/gallery/madrasa-student-12.jpeg",
   "/images/gallery/madrasa-student-2.jpeg",
+   "/images/gallery/madrasa-stduent-new.jpeg",
+    "/images/gallery/madrasa-stduent-new2.jpeg"
 ];
 
 export default function Gallery() {

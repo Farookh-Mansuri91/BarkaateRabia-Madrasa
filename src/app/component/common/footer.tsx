@@ -30,7 +30,7 @@ export default function Footer() {
           <div className="col-md-4">
             <h5 className="fw-bold">Contact Us</h5>
             <p><FaMapMarkerAlt className="me-2" /> Pachdaura Dohriya,Bhojipura, Bareilly, India</p>
-            <p><FaPhoneAlt className="me-2" /> +91 9767622650</p>
+            <p><FaPhoneAlt className="me-2" /> +91 9756622650</p>
             <p><FaEnvelope className="me-2" /> info@barkaaterabiya.com</p>
             <div>
               <a href="#" className="text-white me-3"><FaFacebook size={20} /></a>
