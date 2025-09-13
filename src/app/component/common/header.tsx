@@ -14,7 +14,7 @@ export default function Header() {
       <div className="bg-success text-white py-2 d-none d-lg-block">
         <div className="container d-flex justify-content-between align-items-center">
           <div>
-            <FaPhoneAlt className="me-2" />+91 9767622650 | <FaEnvelope className="ms-3 me-2" /> info@barkaaterabiya.com
+            <FaPhoneAlt className="me-2" />+91 9767622650 | <FaEnvelope className="ms-3 me-2" /> info@barkaterabiya.com
           </div>
           <div>
             <a href="#" className="text-white me-3"><FaFacebook size={20} /></a>
@@ -29,7 +29,7 @@ export default function Header() {
         <div className="container">
           <Link href="/" className="navbar-brand fw-bold text-white">
             <img src="/images/madrasa-logo.jpg" alt="Madrasa Logo" height="40" className="me-2" />
-            Jamia-Tul-Banaat-Barkaate-Rabia
+            Jamia-Tul-Banaat-Barkate-Rabiya
           </Link>
           <button className="navbar-toggler" type="button" onClick={() => setNavbar(!navbar)}>
             <span className="navbar-toggler-icon"></span>

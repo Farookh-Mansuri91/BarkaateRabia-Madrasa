@@ -2,6 +2,7 @@
 "use client";
 import Link from 'next/link';
 import { useState } from 'react';
+import styles from './home.module.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function HomePage() {
@@ -13,8 +14,12 @@ export default function HomePage() {
         <div className="container">
           <h1 className="fw-bold">Khush Aamdeed Hamare Islami Madrasa Mein</h1>
           <h2 className="lead">"Taleem hasil karna har Musalman mard aur aurat par farz hai." – Hazrat Muhammad ﷺ</h2>
-          <p className="lead">Roshan mustaqbil ke liye Islami aqdar ke saath behtareen taleem faraham karna.</p>
-          <Link href="/donation" className="btn btn-warning btn-lg mt-3">Hamara saath dein</Link>
+            <p className="lead">Roshan mustaqbil ke liye Islami aqdar ke saath behtareen taleem faraham karna.</p>
+            <Link href="/donation" className={`btn btn-lg mt-3 text-center ${styles.donationBtn}`}>
+              <span className="fw-bold">Hamara saath dein</span>
+              <small>Click here</small>
+            </Link>
+
         </div>
       </section>
 

@@ -31,7 +31,7 @@ export default function Footer() {
             <h5 className="fw-bold">Contact Us</h5>
             <p><FaMapMarkerAlt className="me-2" /> Pachdaura Dohriya,Bhojipura, Bareilly, India</p>
             <p><FaPhoneAlt className="me-2" /> +91 9756622650</p>
-            <p><FaEnvelope className="me-2" /> info@barkaaterabiya.com</p>
+            <p><FaEnvelope className="me-2" /> info@barkaterabiya.com</p>
             <div>
               <a href="#" className="text-white me-3"><FaFacebook size={20} /></a>
               <a href="#" className="text-white me-3"><FaInstagram size={20} /></a>
@@ -40,7 +40,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="text-center mt-3">
-          <p className="mb-0">&copy; {new Date().getFullYear()} Jamia-Tul-Banaat-Barkaate-Rabiya. All rights reserved.</p>
+          <p className="mb-0">&copy; {new Date().getFullYear()} Jamia-Tul-Banaat-Barkate-Rabiya. All rights reserved.</p>
         </div>
       </div>
     </footer>
