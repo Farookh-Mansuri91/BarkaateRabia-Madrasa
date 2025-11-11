@@ -31,7 +31,7 @@ export default function ContactUs() {
           <h4>Hum se rabta karein</h4>
           <p><FaMapMarkerAlt />Pachdaura Dohriya,Bhojipura, Bareilly, India</p>
           <p><FaPhoneAlt />+91 9756622650</p>
-          <p><FaEnvelope /> info@barkaterabiya.com</p>
+          <p><FaEnvelope /> info@barkaterabia.com</p>
         </div>
         <div className="col-md-6">
           <h4>Send Us a Message</h4>
